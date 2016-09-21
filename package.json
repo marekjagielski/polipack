@@ -1,7 +1,7 @@
 {
   "name": "polipack",
-  "version": "0.0.0",
-  "license": "MIT",
+  "version": "1.0.0",
+  "license": "Proprietary - Copyright System in Cloud - Marek Jagielski",
   "angular-cli": {},
   "scripts": {
     "start": "ng serve",
