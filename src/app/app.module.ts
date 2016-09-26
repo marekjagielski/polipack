@@ -5,10 +5,25 @@ import { HttpModule }    from '@angular/http';
 
 import { AppComponent }  from './app.component';
 
+import { ChooseJarComponent }       from './choose-jar.component';
+import { ChooseNutComponent }       from './choose-nut.component';
+import { ChooseSeparatorComponent } from './choose-separator.component';
+import { ChooseScoopComponent }     from './choose-scoop.component';
+
+import { ProductsListComponent }    from './products-list.component';
+import { SummaryComponent }         from './summary.component';
+
 @NgModule({
   imports:      [ BrowserModule, FormsModule, HttpModule ],
-  declarations: [ AppComponent ],
+  declarations: [ AppComponent, 
+                  ChooseJarComponent,
+                  ChooseNutComponent,
+                  ChooseSeparatorComponent,
+                  ChooseScoopComponent,
+                  
+                  ProductsListComponent,
+                  SummaryComponent ],
   providers:    [],
-  bootstrap:    [AppComponent]
+  bootstrap:    [ AppComponent ]
 })
 export class AppModule { }
