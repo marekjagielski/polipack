@@ -1,0 +1,14 @@
+{
+    "choose-jar": {    
+        "jar": "Słoik"
+    },
+    "choose-nut": {    
+        "nut": "Nakrętka"
+    },
+    "choose-scoop": {    
+        "scoop": "Miarka"
+    },
+    "choose-separator": {    
+        "separator": "Przekładka"
+    }
+}

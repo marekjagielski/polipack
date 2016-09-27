@@ -1,7 +1,12 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule }      from '@angular/core';
 import { FormsModule }   from '@angular/forms';
-import { HttpModule }    from '@angular/http';
+import { HttpModule, 
+         Http }          from '@angular/http';
+
+import { TranslateModule,
+         TranslateLoader,
+         TranslateStaticLoader} from 'ng2-translate/ng2-translate'
 
 import { AppComponent }  from './app.component';
 
@@ -14,7 +19,14 @@ import { ProductsListComponent }    from './products-list.component';
 import { SummaryComponent }         from './summary.component';
 
 @NgModule({
-  imports:      [ BrowserModule, FormsModule, HttpModule ],
+  imports:      [ BrowserModule, 
+                  FormsModule, 
+                  HttpModule,
+                  TranslateModule.forRoot({
+                    provide: TranslateLoader,
+                    useFactory: ( http: Http ) => new TranslateStaticLoader( http, '/assets/i18n', '.json' ),
+                    deps: [ Http ]
+                 }) ],
   declarations: [ AppComponent, 
                   ChooseJarComponent,
                   ChooseNutComponent,
@@ -24,6 +36,7 @@ import { SummaryComponent }         from './summary.component';
                   ProductsListComponent,
                   SummaryComponent ],
   providers:    [],
+  exports:      [ AppComponent, TranslateModule ],
   bootstrap:    [ AppComponent ]
 })
 export class AppModule { }

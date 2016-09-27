@@ -1,0 +1,14 @@
+{
+    "choose-jar": {    
+        "jar": "Bottle"
+    },
+    "choose-nut": {    
+        "nut": "Cap"
+    },
+    "choose-scoop": {    
+        "scoop": "Measure"
+    },
+    "choose-separator": {    
+        "separator": "Spacer"
+    }
+}
