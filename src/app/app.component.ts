@@ -1,5 +1,4 @@
-import { Component }        from '@angular/core';
-//import { Router }           from '@angular/router';
+import { Component, Input } from '@angular/core';
 import { TranslateService } from 'ng2-translate/ng2-translate';
 
 @Component({
@@ -9,16 +8,17 @@ import { TranslateService } from 'ng2-translate/ng2-translate';
   providers:   [ ]
 })
 export class AppComponent {
-
+//  @Input language: string;
+  
   constructor(
-//    private router:    Router,
     private translate: TranslateService
   ) {
     this.translateConfig();
   }
 
   translateConfig() {
-    var userLang = navigator.language.split('-')[0];
+    var path = document.location.pathname;
+    var userLang = path.split("/")[1];
     userLang = /(pl|en|de|ru)/gi.test(userLang) ? userLang : 'pl';
     this.translate.setDefaultLang('pl');
     this.translate.use(userLang);
