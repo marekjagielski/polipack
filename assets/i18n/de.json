@@ -1,0 +1,14 @@
+{
+    "choose-jar": {    
+        "jar": "Glas"
+    },
+    "choose-nut": {    
+        "nut": "Verschluss"
+    },
+    "choose-scoop": {    
+        "scoop": "Maßstab"
+    },
+    "choose-separator": {    
+        "separator": "Spacer"
+    }
+}

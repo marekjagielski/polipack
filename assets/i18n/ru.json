@@ -1,0 +1,14 @@
+{
+    "choose-jar": {    
+        "jar": "банка"
+    },
+    "choose-nut": {    
+        "nut": "Гайка"
+    },
+    "choose-scoop": {    
+        "scoop": "Меркa"
+    },
+    "choose-separator": {    
+        "separator": "Pаспорка"
+    }
+}
