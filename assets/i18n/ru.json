@@ -1,6 +1,7 @@
 {
     "choose-jar": {    
-        "jar": "банка"
+        "jar": "Банка",
+        "type": "Тип ..."
     },
     "choose-nut": {    
         "nut": "Гайка"

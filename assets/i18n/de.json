@@ -1,6 +1,7 @@
 {
     "choose-jar": {    
-        "jar": "Glas"
+        "jar": "Glas",
+        "type": "Art ..."
     },
     "choose-nut": {    
         "nut": "Verschluss"

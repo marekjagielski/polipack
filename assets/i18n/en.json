@@ -1,6 +1,7 @@
 {
     "choose-jar": {    
-        "jar": "Bottle"
+        "jar": "Bottle",
+        "type": "Type ..."
     },
     "choose-nut": {    
         "nut": "Cap"

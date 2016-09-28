@@ -1,6 +1,7 @@
 {
     "choose-jar": {    
-        "jar": "Słoik"
+        "jar": "Słoik",
+        "type": "Typ ..."
     },
     "choose-nut": {    
         "nut": "Nakrętka"
