@@ -4,12 +4,15 @@
         "type": "Typ ..."
     },
     "choose-nut": {    
-        "nut": "Nakrętka"
+        "nut": "Nakrętka",
+        "type": "Typ ..."
     },
     "choose-scoop": {    
-        "scoop": "Miarka"
+        "scoop": "Miarka",
+        "type": "Typ ..."
     },
     "choose-separator": {    
-        "separator": "Przekładka"
+        "separator": "Przekładka",
+        "type": "Typ ..."
     }
 }

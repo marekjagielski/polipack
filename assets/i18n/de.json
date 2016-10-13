@@ -4,12 +4,15 @@
         "type": "Art ..."
     },
     "choose-nut": {    
-        "nut": "Verschluss"
+        "nut": "Verschluss",
+        "type": "Art ..."
     },
     "choose-scoop": {    
-        "scoop": "Maßstab"
+        "scoop": "Maßstab",
+        "type": "Art ..."
     },
     "choose-separator": {    
-        "separator": "Spacer"
+        "separator": "Spacer",
+        "type": "Art ..."
     }
 }

@@ -4,12 +4,15 @@
         "type": "Тип ..."
     },
     "choose-nut": {    
-        "nut": "Гайка"
+        "nut": "Гайка",
+        "type": "Тип ..."
     },
     "choose-scoop": {    
-        "scoop": "Меркa"
+        "scoop": "Меркa",
+        "type": "Тип ..."
     },
     "choose-separator": {    
-        "separator": "Pаспорка"
+        "separator": "Pаспорка",
+        "type": "Тип ..."
     }
 }

@@ -4,12 +4,15 @@
         "type": "Type ..."
     },
     "choose-nut": {    
-        "nut": "Cap"
+        "nut": "Cap",
+        "type": "Type ..."
     },
     "choose-scoop": {    
-        "scoop": "Measure"
+        "scoop": "Measure",
+        "type": "Type ..."
     },
     "choose-separator": {    
-        "separator": "Spacer"
+        "separator": "Spacer",
+        "type": "Type ..."
     }
 }
