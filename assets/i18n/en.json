@@ -1,7 +1,9 @@
 {
     "choose-jar": {    
         "jar": "Bottle",
-        "type": "Type ..."
+        "type": "Type ...",
+        "volume": "Volume ...",
+        "packing": "Packing ..."
     },
     "choose-nut": {    
         "nut": "Cap",

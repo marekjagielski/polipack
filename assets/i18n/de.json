@@ -1,7 +1,9 @@
 {
     "choose-jar": {    
         "jar": "Glas",
-        "type": "Art ..."
+        "type": "Art ...",
+        "volume": "Volumen ...",
+        "packing": "Verpackung ..."
     },
     "choose-nut": {    
         "nut": "Verschluss",

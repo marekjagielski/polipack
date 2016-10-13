@@ -1,7 +1,9 @@
 {
     "choose-jar": {    
         "jar": "Słoik",
-        "type": "Typ ..."
+        "type": "Typ ...",
+        "volume": "Pojemność ...",
+        "packing": "Pakowanie ..."
     },
     "choose-nut": {    
         "nut": "Nakrętka",
