@@ -6,15 +6,21 @@
         "packing": "Pakowanie ..."
     },
     "choose-nut": {    
+        "jar": "Słoik ...",
+        "volume": "Pojemność ...",
         "nut": "Nakrętka",
-        "type": "Typ ..."
+        "type": "Typ ...",
+        "packing": "Pakowanie ..."
     },
     "choose-scoop": {    
         "scoop": "Miarka",
-        "type": "Typ ..."
+        "type": "Typ ...",
+        "packing": "Pakowanie ..."
     },
     "choose-separator": {    
+        "nut": "Nakrętka ...",   
         "separator": "Przekładka",
-        "type": "Typ ..."
+        "type": "Typ ...",
+        "packing": "Pakowanie ..."
     }
 }

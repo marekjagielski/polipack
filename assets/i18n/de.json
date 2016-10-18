@@ -6,15 +6,21 @@
         "packing": "Verpackung ..."
     },
     "choose-nut": {    
+        "jar": "Glas ...",
+        "volume": "Volumen ...",
         "nut": "Verschluss",
-        "type": "Art ..."
+        "type": "Art ...",
+        "packing": "Verpackung ..."
     },
     "choose-scoop": {    
         "scoop": "Maßstab",
-        "type": "Art ..."
+        "type": "Art ...",
+        "packing": "Verpackung ..."
     },
     "choose-separator": {    
+        "nut": "Verschluss ...",   
         "separator": "Spacer",
-        "type": "Art ..."
+        "type": "Art ...",
+        "packing": "Verpackung ..."
     }
 }

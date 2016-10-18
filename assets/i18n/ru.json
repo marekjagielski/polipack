@@ -6,15 +6,21 @@
         "packing": "Упаковка ..."
     },
     "choose-nut": {    
+        "jar": "Банка ...",
+        "volume": "Емкость ...",
         "nut": "Гайка",
-        "type": "Тип ..."
+        "type": "Тип ...",
+        "packing": "Упаковка ..."
     },
     "choose-scoop": {    
         "scoop": "Меркa",
-        "type": "Тип ..."
+        "type": "Тип ...",
+        "packing": "Упаковка ..."
     },
-    "choose-separator": {    
+    "choose-separator": {
+        "nut": "Гайка ...",   
         "separator": "Pаспорка",
-        "type": "Тип ..."
+        "type": "Тип ...",
+        "packing": "Упаковка ..."
     }
 }

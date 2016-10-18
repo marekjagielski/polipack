@@ -6,15 +6,21 @@
         "packing": "Packing ..."
     },
     "choose-nut": {    
+        "jar": "Bottle ...",
+        "volume": "Volume ...",
         "nut": "Cap",
-        "type": "Type ..."
+        "type": "Type ...",
+        "packing": "Packing ..."
     },
     "choose-scoop": {    
         "scoop": "Measure",
-        "type": "Type ..."
+        "type": "Type ...",
+        "packing": "Packing ..."
     },
     "choose-separator": {    
+        "nut": "Cap ...",   
         "separator": "Spacer",
-        "type": "Type ..."
+        "type": "Type ...",
+        "packing": "Packing ..."
     }
 }
