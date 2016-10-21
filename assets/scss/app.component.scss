@@ -1,18 +1,18 @@
 @import "modules/choose.component.scss";
 
-table.app-root {
-	table-layout: auto;
-}
-
 div.order-size-calculator {
 	border: 1px solid;
   	border-radius: 5px;
   	padding: 2px;
   	background-color: #EFEFEF;
-}
+  	max-width: 800px;
 
-div.choose-components {
-	table-layout: auto;
+	div.choose-components {
+		.grid-item {
+			position: relative;
+			float: left;
+		}
+	}
 }
 
 /*Variables*/
