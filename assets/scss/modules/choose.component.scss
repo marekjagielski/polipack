@@ -17,13 +17,14 @@
 		
 		div.element {
 			margin: 5px 10px;
-			button {
+			button.polipack-add {
 			    appearance: none;
 			    -webkit-appearance: none;
 			    -moz-appearance: none;
 			    outline: none;
 			    border: 0;
 			    background: transparent;
+			    padding-top: 10;
 			}
 		}
 	}
