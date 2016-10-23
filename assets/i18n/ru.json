@@ -22,5 +22,13 @@
         "separator": "Pаспорка",
         "type": "Тип ...",
         "packing": "Упаковка ..."
+    },
+    "product-list": {
+    	"product": "Продукт",
+    	"type": "Тип",
+    	"volume": "Емкость",
+    	"packing": "Упаковка",
+    	"quantity": "Количество",
+    	"packs-quantity": "Количество упаковок"
     }
 }

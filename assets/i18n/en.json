@@ -22,5 +22,13 @@
         "separator": "Spacer",
         "type": "Type ...",
         "packing": "Packing ..."
+    },
+    "product-list": {
+    	"product": "Product",
+    	"type": "Type",
+    	"volume": "Volume",
+    	"packing": "Packing",
+    	"quantity": "Quantity",
+    	"packs-quantity": "Number of packages"
     }
 }

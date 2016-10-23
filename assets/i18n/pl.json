@@ -22,5 +22,13 @@
         "separator": "Przekładka",
         "type": "Typ ...",
         "packing": "Pakowanie ..."
+    },
+    "product-list": {
+    	"product": "Produkt",
+    	"type": "Typ",
+    	"volume": "Pojemność",
+    	"packing": "Pakowanie",
+    	"quantity": "Ilość",
+    	"packs-quantity": "Ilość opakowań"
     }
 }
