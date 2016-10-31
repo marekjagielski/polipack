@@ -30,5 +30,8 @@
     	"packing": "Упаковка",
     	"quantity": "Количество",
     	"packs-quantity": "Количество упаковок"
+    },
+    "summary": {
+    	"together": "Вместе"
     }
 }

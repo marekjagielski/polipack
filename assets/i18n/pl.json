@@ -30,5 +30,8 @@
     	"packing": "Pakowanie",
     	"quantity": "Ilość",
     	"packs-quantity": "Ilość opakowań"
+    },
+    "summary": {
+    	"together": "Razem"
     }
 }
