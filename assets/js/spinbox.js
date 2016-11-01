@@ -435,7 +435,7 @@
 	$.fn.spinbox.defaults = {
 		value: 0,
 		min: 0,
-		max: 999,
+		max: Number.POSITIVE_INFINITY,
 		step: 1,
 		hold: true,
 		speed: 'medium',
@@ -444,7 +444,7 @@
 		units: [],
 		decimalMark: '.',
 		defaultUnit: '',
-		limitToStep: false
+		limitToStep: true
 	};
 
 	$.fn.spinbox.Constructor = Spinbox;
