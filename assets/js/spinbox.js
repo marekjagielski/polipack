@@ -99,7 +99,7 @@
 
 	// Truly private methods
 	var _limitToStep = function _limitToStep(number, step) {
-		return Math.round(number / step) * step;
+		return Math.ceil(number / step) * step;
 	};
 
 	var _isUnitLegal = function _isUnitLegal(unit, validUnits) {
