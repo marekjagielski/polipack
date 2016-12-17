@@ -1,10 +1,11 @@
 @import "modules/choose.component.scss";
+@import "modules/summary.component.scss";
 
 div.order-size-calculator {
 	border: 1px solid;
   	border-radius: 5px;
   	padding: 2px;
-  	background-color: #EFEFEF;
+  	background-color: #11A73B;
 
 	div.choose-components {
 		.grid-item {
@@ -18,5 +19,6 @@ div.order-size-calculator {
 $mainTextColor: #282727;
 
 /deep/ app-root {
-  color: $mainTextColor;
+  //color: $mainTextColor;
+  //color: white;
 }

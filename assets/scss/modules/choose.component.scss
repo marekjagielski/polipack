@@ -4,11 +4,12 @@
 	margin: 1px;
 	padding: 2px;
 	border: 1px dotted;
-    border-radius: 5px;
-    background-color: #EFEEEE;
+    border-radius: 8px;
+    background-color: #2A9230;
     
 	
 	div.title > * {
+    	color: white;
 		margin: 0px;
 	}
 	
@@ -17,6 +18,18 @@
 		
 		div.element {
 			margin: 5px 10px;
+			
+			.btn-default {
+				.text-muted {
+					color: white !important;
+				}
+				.btn-link {
+					color: white !important;
+				}
+				color: white !important;
+    			background-color: #175B1C !important;
+			}
+		
 			button.polipack-add {
 			    appearance: none;
 			    -webkit-appearance: none;
