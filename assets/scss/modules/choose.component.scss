@@ -5,11 +5,12 @@
 	padding: 2px;
 	border: 1px dotted;
     border-radius: 8px;
-    background-color: #2A9230;
+    background-color: white;
     
 	
 	div.title > * {
-    	color: white;
+    	color: #333333;
+    	font-weight: bold;
 		margin: 0px;
 	}
 	
@@ -27,7 +28,8 @@
 					color: white !important;
 				}
 				color: white !important;
-    			background-color: #175B1C !important;
+				font-weight: bold;
+    			background-color: #88C425 !important;
 			}
 		
 			button.polipack-add {
